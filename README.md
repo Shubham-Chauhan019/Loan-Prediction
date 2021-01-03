@@ -1,1 +1,1 @@
-# Loan-Prediction
+# Loan-Prediction Challenge : It is a Machine Learning challenge on Analytics Vidhya in which we have to classify the loan Status using the given factors.I have used many classify algorithms to classify the data and then used hyperparameter tuning on the best working algorithm to futher enhance it's performance.
